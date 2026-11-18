@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\User\\OneDrive\\Desktop\\Votonomy-AI-and-Blockchain-based-Voting-System-main\\.venv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "C:\\Users\\User\\OneDrive\\Desktop\\Votonomy-AI-and-Blockchain-based-Voting-System-main\\Votonomy-AI-and-Blockchain-based-Voting-System-main\\backend",
+    "C:\\Users\\User\\OneDrive\\Desktop\\Votonomy-AI-and-Blockchain-based-Voting-System-main\\.venv\\Lib\\site-packages"
+  ],
+  "python.analysis.packageIndexDepth": 2,
+  "python.analysis.useLibraryCodeForTypes": true,
+  "python.languageServer": "Pylance"
+}
